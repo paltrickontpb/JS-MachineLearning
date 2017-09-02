@@ -18,5 +18,15 @@ NOTE : This repository will not teach you the entire theory behind the programs.
 This Program is based on the synaptic library for Neural Networks. It has a prewritten algorithm for XOR so that a model can be easily trained using a 'Trainer' object.
 
 Required Packages (Install using npm) : synaptic
+Name of the script : XOR-synaptic.js
+Extra Files : NIL
 
-MORE EXAMPLE WILL BE ADDED SOON.
+### 2) Linear Regression Model
+
+This Program is based on the ml node_module. ML module contains many tools for machine learning, and one of the basic tools is SLR or Simple Linear Regression. This certain program uses an external .csv file to read data from, using the csvtojson package for faster parsing.
+
+Required Packages (Install using npm) : ml, csvtojson
+Name of the script : SLR.js
+Extra Files : Advertisement.cls (Input data for the model)
+
+MORE EXAMPLES WILL BE ADDED SOON.
