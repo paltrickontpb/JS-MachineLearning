@@ -6,7 +6,7 @@ This Repository contains code related to Machine Learning on Javascript Platform
 1) Install Node.JS onto your computer.
 2) Install the required packages mentioned below in the test cases.
 3) You can install the modules/packages globally.
-4) Clone the code fron the Repository and type "node <filename>.js" to run it.
+4) Clone the code fron the Repository and type "node File_Name.js" to run it.
 5) All the examples will contain comments and console.log outputs for better understanding of the code.
 
 NOTE : This repository will not teach you the entire theory behind the programs. For that, it is better to do individual research and understand how each model works. The repository will be beneficial for people who have active knowledge about the models and know basic JS.
